@@ -1,2 +1,2 @@
-# EricGTPTI
+# EricGPTI
 Personalização GitHub
