@@ -21,7 +21,7 @@
 ### Graduation Degree: 
 - Management of Information Technology (2010).
 
-### Post Graduation Degree (Specialization):
+### Postgraduate Degree (Specialization):
 - Data Science and Big Data (2021).
 - MBA in Project Management (2011).
 
